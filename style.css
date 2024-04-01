@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+    text-decoration: none;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* blog area start */
+ 
+.card.card_body {
+    margin-left: 1%;
+    
+}
+
+/* blog area end */
